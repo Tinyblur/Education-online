@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="com_chenliu_spark_kudu" />
+        <module name="com_chenliu_sparkstreaming" />
+        <module name="com_chenliu_warehouse" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com_atguigu_spark_kudu" target="1.8" />
+      <module name="com_atguigu_sparkstreaming" target="1.8" />
+      <module name="com_atguigu_warehouse" target="1.8" />
+      <module name="com_chenliu_spark_kudu" target="1.8" />
+      <module name="com_chenliu_sparkstreaming" target="1.8" />
+      <module name="com_chenliu_warehouse" target="1.8" />
+      <module name="Education-online" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

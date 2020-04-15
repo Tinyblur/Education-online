@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Education-online.iml" filepath="$PROJECT_DIR$/Education-online.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com_chenliu_spark_kudu/com_chenliu_spark_kudu.iml" filepath="$PROJECT_DIR$/com_chenliu_spark_kudu/com_chenliu_spark_kudu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com_chenliu_sparkstreaming/com_chenliu_sparkstreaming.iml" filepath="$PROJECT_DIR$/com_chenliu_sparkstreaming/com_chenliu_sparkstreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com_chenliu_warehouse/com_chenliu_warehouse.iml" filepath="$PROJECT_DIR$/com_chenliu_warehouse/com_chenliu_warehouse.iml" />
+    </modules>
+  </component>
+</project>
